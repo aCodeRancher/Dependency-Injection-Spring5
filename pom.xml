@@ -41,7 +41,7 @@
 		</plugins>
 	</build>
   <scm>
-    <developerConnection>scm:git:git@github.com:Elfn/Spring-Framework-5.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:elfn-spring5/Dependency-Injection-Spring5.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 </project>
