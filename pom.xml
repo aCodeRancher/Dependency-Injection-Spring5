@@ -4,7 +4,7 @@
 
   <artifactId>petClinic</artifactId>
   <groupId>com.elsior</groupId>
-  <version>0.0.1</version>
+  <version>0.0.1-SNAPSHOT</version>
 
     <packaging>pom</packaging>
 
@@ -44,6 +44,6 @@
 	</build>
   <scm>
     <developerConnection>scm:git:git@github.com:elfn-spring5/Dependency-Injection-Spring5.git</developerConnection>
-    <tag>petClinic-0.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
