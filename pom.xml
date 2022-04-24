@@ -15,7 +15,7 @@
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.6.7</version>
+		<version>2.6.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 <!--	<name>petClinic</name>-->
@@ -60,7 +60,7 @@
 		</plugins>
 	</build>
   <scm>
-    <developerConnection>scm:git:git@github.com:elfn-spring5/Dependency-Injection-Spring5.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/aCodeRancher/Dependency-Injection-Spring5.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 </project>
