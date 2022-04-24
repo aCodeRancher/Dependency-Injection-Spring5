@@ -2,10 +2,7 @@ package model;
 
 import java.time.LocalDate;
 
-/**
- * @PROJECT petClinic
- * @Author Elimane on 23/04/2022
- */
+
 // Bean for Pet
 public class Pet {
   private PetType petType;
