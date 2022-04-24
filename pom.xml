@@ -23,6 +23,24 @@
 	<properties>
 		<java.version>11</java.version>
 	</properties>
+
+
+  <distributionManagement>
+    <repository>
+      <uniqueVersion>false</uniqueVersion>
+
+      <!--How can I find that ID-->
+      <id>1</id>
+
+      <!--The github repo-->
+      <name>Dependency-Injection-Spring5</name>
+
+      <!--.m2 folder-->
+      <url>file://Users/Elimane/.m2</url>
+      <layout>default</layout>
+    </repository>
+  </distributionManagement>
+
 	<dependencies>
 
     </dependencies>
