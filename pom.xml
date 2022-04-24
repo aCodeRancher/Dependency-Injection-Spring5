@@ -4,7 +4,7 @@
 
   <artifactId>petClinic</artifactId>
   <groupId>com.elsior</groupId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
 
     <packaging>pom</packaging>
 
@@ -61,6 +61,6 @@
 	</build>
   <scm>
     <developerConnection>scm:git:https://github.com/aCodeRancher/Dependency-Injection-Spring5.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>petClinic-0.0.2</tag>
   </scm>
 </project>
